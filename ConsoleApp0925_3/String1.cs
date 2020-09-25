@@ -69,7 +69,7 @@ namespace ConsoleApp0925_3
                 sex = "밀레니엄 공쥬님";
                 gubun = 20;
             }
-
+              
                 
             Console.WriteLine($"생년월일 : {gubun}"+ $"{year}년, {month}월, {day}일 출생 \n성별 : {sex}");
 
